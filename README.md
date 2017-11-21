@@ -1,2 +1,2 @@
 # vuetest
-测试vue
+vue-webpack-simple-mydemo
