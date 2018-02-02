@@ -14,4 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-#this is my webpack-simple
+
+you can see path https://ssllee.github.io/vuetest/

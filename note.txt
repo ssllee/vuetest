@@ -1,0 +1,27 @@
+
+
+
+--------node 报错
+graceful-fs@4.1.11
+minimatch@3.0.4
+node-gyp@3.6.2
+
+
+-------项目初始化
+
+$npm install
+
+$npm install -S vue-router
+
+$npm install -S vue-resource
+
+$npm install -S element-ui
+
+$npm install -D echarts
+
+------
+$netstat -aon|findstr 8084
+$taskkill -f -pid 16836
+
+
+-------开发与生产 注意重新设置publicPath: '/dist/'
